@@ -3,9 +3,7 @@
 This project is intended to output 'Hello World' string in order to begin the process of learning a new language, in this case TypeScript, this project is a sample of
 a new more robust one in the future.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1DxgA5dUs_UcFu2D_mb_nlT8JL673C9Ln/view?usp=sharing)
 
 # Development Environment
 
